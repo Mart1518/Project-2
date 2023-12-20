@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.glavn{
+    background-color: rgb(254, 56, 56);
+    height: auto;
+}
+.up{
+    
+    display: flex;
+    box-shadow: 0px 0px 5px black;
+}
+.up h2{
+    color: white;
+    padding: 13px 26px 13px 26px;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+}
+#home{
+    padding: 10px 20px 10px 20px;
+    background-color: white;
+    color: black;
+    font-weight: 100;
+}
+.glav{
+    height: 400px;
+    background-color: rgb(254, 56, 56);
+}
+.big{
+    text-align: center;
+    font-size: xx-large;
+    color:white;
+    margin-top: 100px;
+    font-family:sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+}
+.templ{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 25px;
+}
+.START{
+    color: white;
+    margin-top: 30px ;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 10px;
+    padding: 15px 20px 15px 20px ;
+    background-color: black;
+    width: 170px;
+    text-align: center;
+    margin-left:645px;
+}
+.glall{
+    background-color: white;
+    height: 450px;
+    display: flex;
+}
+.tek{
+    background-color: white;
+    height: 300px;
+    width: 700px;
+    margin-left: 300px;
+    padding-top: 100px;
+    color: white;
+    margin-right: 50px;
+}
+.tek h1{
+    font-weight: 100;
+    font-family: sans-serif;
+    padding-bottom: 35px;
+    font-size: 35px;
+    color: black;
+}
+.tek h4{
+    padding-bottom: 30px;
+    font-weight: 100;
+    font-size: 17px;
+    color: black;
+}
+.tek p{
+    font-weight: 100;
+    font-size: 17px;
+    color: grey;
+}
+.img1{
+    margin-top: 100px;
+}
+.two{
+    background-color: rgb(237, 233, 233);
+    height: 470px;
+    display: flex;
+}
+.tectt{
+    height: 300px;
+    width: 500px;
+    margin-left: 100px;
+    padding-top: 100px;
+    color: black;
+    margin-right: 50px;
+}
+.tectt h1{
+    font-weight: 100;
+    font-family: sans-serif;
+    padding-bottom: 35px;
+    font-size: 35px;
+    color: black;
+}
+.tactt h4{
+    font-weight: 100;
+    font-size: 17px;
+    color: black;
+}
+.tactt p{
+    margin-top: 50px;
+    font-weight: 100;
+    font-size: 17px;
+    color: grey;
+}
+.cup{
+    padding-left: 200px;
+    margin-top: 150px;
+}
+.biv{
+    background-color: rgb(105, 104, 104);
+    height: 160px;
+    font-weight: 100;
+}
+.biv h1{
+    text-align: center;
+    padding-top: 60px;
+    font-family: sans-serif;
+    font-weight: 100;
+    color: white;
+}
+.end{
+    height: 180px;
+    text-align: center;
+    padding-top: 60px;
+}
